@@ -50,3 +50,6 @@ Server-side:
 - With non-ox inventories that lack metadata support, keys may not visually show their plate. Logic still attempts to enforce plate match on the server, but using ox_inventory is strongly recommended.
 - If you already have a lock/unlock control bound elsewhere, consider disabling that or rely solely on using the key item.
 
+
+## Showcase
+https://medal.tv/games/gta-v/clips/l3BHcYXqwkFdri69n?invite=cr-MSxWam8sMzIxMzEwNjkw&v=42
