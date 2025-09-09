@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name 'nskap_keys'
+name 'nskap_carkeys'
 author 'not.skap'
 description 'Advanced key system with ignition and locking features'
 version '1.0.0'
@@ -28,4 +28,4 @@ dependencies {
     'ox_inventory'
 }
 
-provide 'nskap_keys'
+provide 'nskap_carkeys'
