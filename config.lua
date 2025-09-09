@@ -12,7 +12,7 @@ Config.LockProgressDuration = 2000
 Config.NearbyVehicleDistance = 4.0
 
 -- Admin groups allowed to use /addkey
-Config.AdminGroups = { user = true, superadmin = true }
+Config.AdminGroups = { admin = true, superadmin = true }
 
 -- Notification: 'ox' (ox_lib) or 'esx' you can add your own notify
 Config.NotifyProvider = 'ox'
